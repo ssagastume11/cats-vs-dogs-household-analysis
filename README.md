@@ -5,8 +5,8 @@
 
 ## 📊 Interactive Dashboard  
 
-Explore Tableau's interactive dashboard for a deeper analysis of the Formula 1 winners dataset.
-The dashboard highlights comparison between dogs and cats households by US states, explore pet ownership percentages, and identify regions where dog or cat ownership dominates.  
+Explore Tableau's interactive dashboard for a deeper analysis of the dog vs cat household ownership analysis.
+The dashboard highlights the comparison between households with dogs and cats by US state, explores pet ownership percentages, and identifies regions where dog or cat ownership predominates.
 
 🔗 [View the Tableau Dashboard](https://public.tableau.com/views/DogVsCatHouseholdAnalysis/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)  
 
