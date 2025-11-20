@@ -6,9 +6,9 @@
 ## 📊 Interactive Dashboard  
 
 Explore Tableau's interactive dashboard for a deeper analysis of the Formula 1 winners dataset.
-The dashboard highlights driver dominance, constructor performance, and historical racing trends over decades.  
+The dashboard highlights comparison between dogs and cats households by US states, explore pet ownership percentages, and identify regions where dog or cat ownership dominates.  
 
-🔗 [View the Tableau Dashboard](https://public.tableau.com/views/Formula1WInnersAnalysis1950-2025/Formula1WinnersAnalysis?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)  
+🔗 [View the Tableau Dashboard](https://public.tableau.com/views/DogVsCatHouseholdAnalysis/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)  
 
 ---
 
